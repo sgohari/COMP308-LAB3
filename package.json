@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson3b",
+  "name": "week03expressdemo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "description": "Express Generator Demo",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Syed Nasir Gohary",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
